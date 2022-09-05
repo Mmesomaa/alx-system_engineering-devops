@@ -1,2 +1,2 @@
-cat -e
-cat -e
+#!/bin/bash
+Hello, world
